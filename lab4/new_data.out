@@ -1,6 +1,9 @@
+Results for new_data.in:
+--------------------------------------------------
 Z' for Untested_Ship vs Hit: 0.5880
 Z' for Untested_Ship vs Untested_Empty: -5.9364
 Z' for Untested_Ship vs Miss: 0.1609
 Z' for Hit vs Untested_Empty: 0.6015
 Z' for Hit vs Miss: 0.2102
 Z' for Untested_Empty vs Miss: 0.2217
+--------------------------------------------------

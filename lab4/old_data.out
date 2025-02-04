@@ -1,6 +1,9 @@
+Results for old_data.in:
+--------------------------------------------------
 Z' for Untested_Ship vs Hit: 0.3380
 Z' for Untested_Ship vs Untested_Empty: -2.9593
 Z' for Untested_Ship vs Miss: -1.4299
 Z' for Hit vs Untested_Empty: 0.5125
 Z' for Hit vs Miss: 0.1075
 Z' for Untested_Empty vs Miss: -0.2122
+--------------------------------------------------
